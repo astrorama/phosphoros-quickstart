@@ -1,0 +1,25 @@
+<!DOCTYPE CatalogInfo>
+<CatalogInfo SourceColumnId="ID" NonDetection="-99" DefaultCatalogPath="/home/nikoapos/temp/quickstart/Catalogs/Quickstart/catalog.txt">
+ <AvailableColumns>
+  <AvailableColumn>AGN_FLAG</AvailableColumn>
+  <AvailableColumn>FLUXERR_G</AvailableColumn>
+  <AvailableColumn>FLUXERR_H</AvailableColumn>
+  <AvailableColumn>FLUXERR_I</AvailableColumn>
+  <AvailableColumn>FLUXERR_J</AvailableColumn>
+  <AvailableColumn>FLUXERR_R</AvailableColumn>
+  <AvailableColumn>FLUXERR_VIS</AvailableColumn>
+  <AvailableColumn>FLUXERR_Y</AvailableColumn>
+  <AvailableColumn>FLUXERR_Z</AvailableColumn>
+  <AvailableColumn>FLUX_G</AvailableColumn>
+  <AvailableColumn>FLUX_H</AvailableColumn>
+  <AvailableColumn>FLUX_I</AvailableColumn>
+  <AvailableColumn>FLUX_J</AvailableColumn>
+  <AvailableColumn>FLUX_R</AvailableColumn>
+  <AvailableColumn>FLUX_VIS</AvailableColumn>
+  <AvailableColumn>FLUX_Y</AvailableColumn>
+  <AvailableColumn>FLUX_Z</AvailableColumn>
+  <AvailableColumn>ID</AvailableColumn>
+  <AvailableColumn>SUPER_ID</AvailableColumn>
+  <AvailableColumn>ZSPEC</AvailableColumn>
+ </AvailableColumns>
+</CatalogInfo>

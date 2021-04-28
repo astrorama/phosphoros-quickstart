@@ -1,0 +1,4 @@
+Quickstart Collapse BAYESIAN 
+Quickstart IGM MADAU 
+_global_selection_ catalog Quickstart 
+_global_selection_ parameter_space Quickstart 

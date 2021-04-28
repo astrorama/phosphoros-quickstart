@@ -1,0 +1,31 @@
+<!DOCTYPE ParameterSpace>
+<ParameterSpace Name="Quickstart Parameter Space">
+ <ParameterRules>
+  <ParameterRule ModelNumber="34038" Name="All Models">
+   <EbvValues/>
+   <EbvRanges>
+    <Range Step="0.01" Min="0" Max="0.1"/>
+    <Range Step="0.1" Min="0.1" Max="0.5"/>
+    <Range Step="0.5" Min="0.5" Max="2"/>
+   </EbvRanges>
+   <ZValues/>
+   <ZRanges>
+    <Range Step="0.1" Min="0" Max="6"/>
+   </ZRanges>
+   <SedsSelection>
+    <SedGroups>
+     <SedGroup>Cosmos</SedGroup>
+    </SedGroups>
+    <SedIsolated/>
+    <SedExcluded/>
+   </SedsSelection>
+   <RedCurvesSelection>
+    <RedCurveGroups/>
+    <RedCurveIsolated>
+     <RedCurveLone>calzetti</RedCurveLone>
+    </RedCurveIsolated>
+    <RedCurveExcluded/>
+   </RedCurvesSelection>
+  </ParameterRule>
+ </ParameterRules>
+</ParameterSpace>

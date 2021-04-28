@@ -1,0 +1,8 @@
+Quickstart/H FLUX_H FLUXERR_H
+Quickstart/J FLUX_J FLUXERR_J
+Quickstart/VIS FLUX_VIS FLUXERR_VIS
+Quickstart/Y FLUX_Y FLUXERR_Y
+Quickstart/g FLUX_G FLUXERR_G
+Quickstart/i FLUX_I FLUXERR_I
+Quickstart/r FLUX_R FLUXERR_R
+Quickstart/z FLUX_Z FLUXERR_Z
